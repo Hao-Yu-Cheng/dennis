@@ -10,4 +10,4 @@
 電機工程系
 
 ### 在校成績
-
+/assets/img/gpa.png
